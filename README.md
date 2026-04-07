@@ -15,7 +15,8 @@ notes, methods, and things learned while solving them.
 
 | # | Room Name | Difficulty | Type | Description |
 |:---:|:---:|:---:|:---:|---|
-| 1 | [Undo](https://github.com/kanakpbansal/PicoCTF-Writeups/blob/main/Undo/writeup.md) | Easy | General Skills | Reversed text transformations using Linux commands to recover the flag |
+| 1 | [Undo](https://github.com/kanakpbansal/PicoCTF-Writeups/blob/main/Undo/writeup.md) | Easy | Encoding & Transformations(General CLI Skills) | Reversed text transformations using Linux commands to recover the flag |
+| 2 | [MY GIT](https://github.com/kanakpbansal/PicoCTF-Writeups/blob/main/MY%20GIT/writeup.md) | Easy | Git Exploitation / Misconfiguration(General CLI Skills) | Spoofed Git author as root to trigger flag disclosure |
 
 ---
 
