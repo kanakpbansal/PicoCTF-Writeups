@@ -17,7 +17,8 @@ notes, methods, and things learned while solving them.
 |:---:|:---:|:---:|:---:|---|
 | 1 | [Undo](https://github.com/kanakpbansal/PicoCTF-Writeups/blob/main/Undo/writeup.md) | Easy | Encoding & Transformations(General CLI Skills) | Reversed text transformations using Linux commands to recover the flag |
 | 2 | [MY GIT](https://github.com/kanakpbansal/PicoCTF-Writeups/blob/main/MY%20GIT/writeup.md) | Easy | Git Exploitation / Misconfiguration(General CLI Skills) | Spoofed Git author as root to trigger flag disclosure |
-| 3 | [Failure Failure](https://github.com/kanakpbansal/PicoCTF-Writeups/blob/main/Failure%20Failure/writeup.md) | Medium | Web exploitation (Load balancer / Failover) | Trigger rate-limit to force load balancer failover and reveal the flag |
+| 3 | [Old Sessions](https://github.com/kanakpbansal/PicoCTF-Writeups/blob/main/Old%20Sessions/writeup.md) | Easy | Web exploitation | Improper session management leading to account takeover |
+| 4 | [Failure Failure](https://github.com/kanakpbansal/PicoCTF-Writeups/blob/main/Failure%20Failure/writeup.md) | Medium | Web exploitation (Load balancer / Failover) | Trigger rate-limit to force load balancer failover and reveal the flag |
 
 ---
 
